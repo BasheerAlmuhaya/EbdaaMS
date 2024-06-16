@@ -1,0 +1,59 @@
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Debug\ebdaaMS.exe.config
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Debug\ebdaaMS.exe
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Debug\ebdaaMS.pdb
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.Form1.resources
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.Properties.Resources.resources
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.csproj.GenerateResource.Cache
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.exe
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.pdb
+c:\users\hamzasoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.UserForm.resources
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.csprojResolveAssemblyReference.cache
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Debug\AltoControls.dll
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.Accounting.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.addreg.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.add_tachera_aconn.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.student_aconncs.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.tacher_conn.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.edite_tacher_conn.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.course_diss.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.dscourse_edite.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.dscours_add.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.edite_reg.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.reigestion.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.edite_student_aconn.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.add_stdent_aconn.resources
+K:\ebdaaMS\ebdaaMS\bin\Debug\ebdaaMS.exe.config
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.exe
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.pdb
+K:\ebdaaMS\ebdaaMS\bin\Debug\ebdaaMS.exe
+K:\ebdaaMS\ebdaaMS\bin\Debug\ebdaaMS.pdb
+K:\ebdaaMS\ebdaaMS\bin\Debug\AltoControls.dll
+K:\ebdaaMS\ebdaaMS\bin\Debug\Bunifu_UI_v1.5.3.dll
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.csprojResolveAssemblyReference.cache
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.Accounting.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.addreg.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.add_stdent_aconn.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.add_tachera_aconn.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.edite_student_aconn.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.student_aconncs.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.tacher_conn.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.edite_tacher_conn.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.course_diss.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.dscourse_edite.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.dscours_add.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.edite_reg.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.Form1.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.Properties.Resources.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.reigestion.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.UserForm.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.csproj.GenerateResource.Cache
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.AddStudent.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.UserControlStudent.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.edite_student.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.ADDC.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.courses.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.editor.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.tedit.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.tUserControl1.resources
+K:\ebdaaMS\ebdaaMS\obj\Debug\ebdaaMS.taddForm.resources

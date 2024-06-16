@@ -1,0 +1,204 @@
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe.config
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.pdb
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Form1.resources
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Properties.Resources.resources
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserForm.resources
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csproj.GenerateResource.Cache
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.exe
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.pdb
+C:\Users\HamzaSoftware\documents\visual studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.AddStudent.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Release\AltoControls.dll
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.course_diss.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscours_add.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Accounting.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addreg.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscourse_edite.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_reg.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.reigestion.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.student_conn.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.teacher_aconn.resources
+C:\Users\HamzaSoftware\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csprojResolveAssemblyReference.cache
+K:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe.config
+K:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe
+K:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.pdb
+K:\ebdaaMS\ebdaaMS\bin\Release\AltoControls.dll
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csprojResolveAssemblyReference.cache
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Accounting.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.ADDC.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addreg.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.AddStudent.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_stdent_aconn.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_tachera_aconn.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.courses.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student_aconn.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.editor.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Form1.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.student_aconncs.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.taddForm.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tacher_conn.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_tacher_conn.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.course_diss.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscourse_edite.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscours_add.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_reg.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Properties.Resources.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.reigestion.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tedit.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tUserControl1.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserControlStudent.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserForm.resources
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csproj.GenerateResource.Cache
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.exe
+K:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.pdb
+E:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe.config
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.exe
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.pdb
+E:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe
+E:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.pdb
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csprojResolveAssemblyReference.cache
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Accounting.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.ADDC.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addreg.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.AddStudent.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_stdent_aconn.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_tachera_aconn.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.courses.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student_aconn.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.editor.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Form1.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.student_aconncs.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.taddForm.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tacher_conn.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_tacher_conn.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.course_diss.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscourse_edite.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscours_add.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_reg.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Properties.Resources.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.reigestion.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tedit.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tUserControl1.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserControlStudent.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserForm.resources
+E:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csproj.GenerateResource.Cache
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe.config
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.exe
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.pdb
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.pdb
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csprojResolveAssemblyReference.cache
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Accounting.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.ADDC.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addreg.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.AddStudent.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_stdent_aconn.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_tachera_aconn.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.courses.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student_aconn.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.editor.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Form1.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.student_aconncs.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.taddForm.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tacher_conn.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_tacher_conn.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.course_diss.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscourse_edite.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscours_add.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_reg.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Properties.Resources.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.reigestion.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tedit.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tUserControl1.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserControlStudent.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserForm.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csproj.GenerateResource.Cache
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.absent.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.FormCertificate.resources
+C:\Users\Awsan\Documents\Visual Studio 2012\Projects\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.CertificateFormcs.resources
+F:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe.config
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.exe
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.pdb
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csprojResolveAssemblyReference.cache
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.absent.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Accounting.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addabsence.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.ADDC.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addreg.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.AddStudent.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_stdent_aconn.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_tachera_aconn.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.courses.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.deplomsForm.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.deplomsUserControl1.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student_aconn.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.editor.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Form1.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.FormCertificate.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.help.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.setting.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.student_aconncs.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.taddForm.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tacher_conn.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_tacher_conn.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.course_diss.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscourse_edite.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscours_add.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_reg.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Properties.Resources.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.reigestion.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tedit.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tUserControl1.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserControlStudent.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserForm.resources
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csproj.GenerateResource.Cache
+F:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe
+F:\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.pdb
+F:\ebdaaMS\ebdaaMS\bin\Release\MetroFramework.Design.dll
+F:\ebdaaMS\ebdaaMS\bin\Release\MetroFramework.dll
+F:\ebdaaMS\ebdaaMS\bin\Release\MetroFramework.Fonts.dll
+F:\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.FormSupport.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe.config
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.exe
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.pdb
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.absent.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Accounting.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addabsence.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.ADDC.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.addreg.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.AddStudent.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_stdent_aconn.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.add_tachera_aconn.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.courses.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.deplomsForm.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.deplomsUserControl1.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_student_aconn.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.editor.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Form1.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.FormCertificate.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.FormSupport.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.help.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.setting.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.student_aconncs.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.taddForm.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tacher_conn.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_tacher_conn.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.course_diss.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscourse_edite.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.dscours_add.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.edite_reg.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.Properties.Resources.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.reigestion.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tedit.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.tUserControl1.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserControlStudent.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.UserForm.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\obj\Release\ebdaaMS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.exe
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\GUI-project\مشروع ادارة معهد\ebdaaMS\ebdaaMS\bin\Release\ebdaaMS.pdb
